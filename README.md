@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**katart2001/katart2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior frontend developer. I build responsive websites with **HTML, CSS, and JavaScript**, work with APIs, and use Git for version control.  
+Currently freelancing on Fiverr and moving towards becoming a **full-stack developer**.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML5, CSS3, SCSS
+- JavaScript (ES6+), API integration (fetch, CRUD)
+- Git / GitHub
+- Responsive web design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [☁️ Weather App](https://katart2001.github.io/weather-2.0/) — simple weather application  
+- [🗒️ Notes App](https://katart2001.github.io/Notes/) — CRUD app for notes  
+
+## 🎯 Goals
+- Learn full-stack development (React + Node.js)  
+- Build a portfolio with 4–5 complete projects  
+- Collaborate with international clients  
+
+## 📫 Contacts
+- Fiverr: <[your Fiverr link](https://www.fiverr.com/s/zWR47kb)>  
+- LinkedIn: < www.linkedin.com/in/artem-katkov-a5a8aa264 >
