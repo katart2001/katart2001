@@ -20,4 +20,4 @@ Currently freelancing on Fiverr and moving towards becoming a **full-stack devel
 
 ## 📫 Contacts
 - Fiverr: <[your Fiverr link](https://www.fiverr.com/s/zWR47kb)>  
-- LinkedIn: <[your LinkedIn link](www.linkedin.com/in/artem-katkov-a5a8aa264)>
+- LinkedIn: <[your LinkedIn link](https://www.linkedin.com/in/artem-katkov-a5a8aa264/)>
