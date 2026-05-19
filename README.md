@@ -11,7 +11,10 @@ Currently freelancing on Fiverr and moving towards becoming a **full-stack devel
 
 ## 📌 Projects
 - [☁️ Weather App](https://katart2001.github.io/weather-2.0/) — simple weather application  
-- [🗒️ Notes App](https://katart2001.github.io/Notes/) — CRUD app for notes  
+- [🗒️ Notes App](https://katart2001.github.io/Notes/) — CRUD app for notes
+- [✨ TranslateX](https://katart2001.github.io/TranslateX/) — Modern React Translation App
+- [🚀 Castaway](https://katart2001.github.io/Castaway/) — Landing Page
+- [🌐 Promptverse AI](https://katart2001.github.io/AI-Project/) — Landing Page
 
 ## 🎯 Goals
 - Learn full-stack development (React + Node.js)  
